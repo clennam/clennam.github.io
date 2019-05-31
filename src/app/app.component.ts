@@ -12,8 +12,8 @@ export class AppComponent {
   statuses: Array<string> = [
     'Coming soon!',
     'Rolling for Initiative...',
-    'Sipping tea',
-    'Driving at ninety down those country lanes',
+    'Sipping tea..',
+    'Driving at ninety down those country lanes...',
     'Attaining final form...',
     'Where we\'re going, we don\'t need roads!',
     'I\'m Mister Meeseeks, look at me!'
