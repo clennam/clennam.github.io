@@ -17,4 +17,19 @@
     background-repeat: no-repeat;
     background-size: cover;
     
-}                    
+}
+
+.grow {
+    transition: all .2s ease-in-out;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+}
+
+.grow:hover {
+    font-size: 150%;
+    cursor: pointer;
+}
+
+.grow.green:hover {
+    color: #4BBF73 !important;
+}
